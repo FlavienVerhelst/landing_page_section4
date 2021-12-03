@@ -1,0 +1,12 @@
+.banner {
+	background-image: url(../images/banner.jpg);
+	height : 65vh;
+	background-size:  cover;
+	background-position: bottom;
+	color: floralwhite;
+	text-align:  center;
+	margin-top: 0px;
+	padding: 32px;
+	poistion: sticky;
+	top: 0px;
+}
